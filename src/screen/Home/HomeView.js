@@ -1,22 +1,3 @@
-// import React, { Component } from 'react';
-// import { Text, View, Button } from 'react-native';
-// import MapView from 'react-native-maps';
-
-// export default class HomeView extends React.Component {
-//     render() {
-//       return (
-//         <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-//           { /* other code from before here */ }
-        
-//         <Button
-//             title="Go to Details"
-//             onPress={() => this.props.navigation.navigate('StackHomeDetail')}
-//           />
-//         </View>
-//       );
-//     }
-//   }
-
 import React, { Component } from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 import MapView from 'react-native-maps';
